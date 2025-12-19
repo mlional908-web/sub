@@ -1,0 +1,7 @@
+>html>
+<head>
+      <title> student personal information </title>
+</head>
+<body bgcolor="lightblue" text="black">
+<center>
+<table border="1"
